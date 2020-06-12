@@ -1,2 +1,2 @@
 # TrainzEx
-TrainzEx is a small plugin interface allowing 3rd party plugins to communicate with the ingame Trainz World.
+TrainzEx is a small native Interface that allows 3rd party plugins communication with Trainz Railroad Simulator.
