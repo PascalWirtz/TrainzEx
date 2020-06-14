@@ -15,7 +15,7 @@
 
 --
 --	OnInit
---	Called once the on startup
+--	Called once on startup
 --
 function OnInit()
 	AddHandler("Interface", "")				-- Register myself for all Interface messages
